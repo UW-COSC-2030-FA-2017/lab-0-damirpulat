@@ -1,0 +1,4 @@
+In the past couple of days:
+1. I learned about git and how to use it
+2. I learned about predicates
+3. I learned about Moor's law
